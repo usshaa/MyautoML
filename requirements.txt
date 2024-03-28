@@ -1,6 +1,6 @@
-python
-streamlit
-ydata-profiling
-pycaret
-pydantic
-streamlit-pandas-profiling
+python==3.7.9
+streamlit==1.32.2
+ydata-profiling==4.7.0
+pycaret==3.3.0
+pydantic==2.6.4
+streamlit-pandas-profiling==0.1.3
