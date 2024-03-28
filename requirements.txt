@@ -1,4 +1,4 @@
-python == 3.9
+python
 streamlit
 ydata-profiling
 pycaret
